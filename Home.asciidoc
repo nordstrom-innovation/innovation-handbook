@@ -1,9 +1,9 @@
 = Innovation Handbook
 
-* [[References|References]]
-* [[Tools/techniques|Tools]]
-* [[Models|Models]]
-* [[Anti-Patterns|Anti-Patterns]]
+* References References
+* Tools/techniques Tools
+* Models Models
+* Anti-Patterns Anti-Patterns
 
 = Innovation Model
 
@@ -26,7 +26,7 @@
 
 == BUSINESS GENERATION PHASE (mapping how to capture value)
 
-* [Business Model Canvas][
+* Business Model Canvas
 * Implement in another country
 
 == SCALING PHASE (expanding the capture of value)
