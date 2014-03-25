@@ -8,8 +8,9 @@ Gollum requires some plugins for correctly rendering asciidoc files. In OSX:
 
 ----
 brew install asciidoc
-brew install asciidoctor
+[sudo] gem install asciidoctor
 ----
 
 == Documentation Standards
+
 Coming soon.
