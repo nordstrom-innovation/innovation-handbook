@@ -1,7 +1,7 @@
-* Jobs to Be Done
-* Agile
-* Lean Startup
-* Lean Manufacturing
-* Design Thinking
-* Innovator’s Dilemma
-* Customer Development
+* http://jobstobedone.org/[Jobs to Be Done]
+* http://agilemanifesto.org/[Agile]
+* http://theleanstartup.com/principles[Lean Startup]
+* http://en.wikipedia.org/wiki/Lean_manufacturing[Lean Manufacturing]
+* https://dschool.stanford.edu/use-our-methods/[Design Thinking]
+* http://csinvesting.org/wp-content/uploads/2012/07/the_innovators_dilemma.pdf[Innovator’s Dilemma]
+* http://steveblank.com/[Customer Development]
