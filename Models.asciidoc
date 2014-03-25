@@ -4,3 +4,4 @@
 * MVP
 * Business Model Canvas
 * Innovator’s Dilemma
+* Cynefin
