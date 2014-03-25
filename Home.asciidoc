@@ -5,9 +5,9 @@
 * link:Models[Models]
 * link:Anti-Patterns[Anti-Patterns]
 
-= Innovation Model
+== Innovation Model
 
-== CONCEPT GENERATION PHASE (Invention)
+=== CONCEPT GENERATION PHASE (Invention)
 
 * Empathy research
   * interviewing
@@ -24,11 +24,11 @@
   * Pitch Deck
   * Product page
 
-== BUSINESS GENERATION PHASE (mapping how to capture value)
+=== BUSINESS GENERATION PHASE (mapping how to capture value)
 
 * Business Model Canvas
 * Implement in another country
 
-== SCALING PHASE (expanding the capture of value)
+=== SCALING PHASE (expanding the capture of value)
 
 * optimize organization (enemy of new concepts)
