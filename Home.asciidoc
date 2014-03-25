@@ -1,9 +1,9 @@
 = Innovation Handbook
 
-* References References
-* Tools/techniques Tools
-* Models Models
-* Anti-Patterns Anti-Patterns
+* link:References[References]
+* link:Tools[Tools/techniques]
+* link:Models[Models]
+* link:Anti-Patterns[Anti-Patterns]
 
 = Innovation Model
 
