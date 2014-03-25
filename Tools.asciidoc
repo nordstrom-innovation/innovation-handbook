@@ -7,3 +7,4 @@
 * Brainstorming
 * Kaizen
 * Build-Measure-Learn
+* link:uploads/The-Core-Protocols-3.03.pdf[Core Protocols]
