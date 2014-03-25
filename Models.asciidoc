@@ -4,4 +4,4 @@
 * MVP
 * Business Model Canvas
 * Innovator’s Dilemma
-* Cynefin
+* http://cognitive-edge.com/library/more/video/introduction-to-the-cynefin-framework/[Cynefin]
