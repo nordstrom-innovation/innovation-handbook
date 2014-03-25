@@ -4,7 +4,6 @@
 * [[Tools/techniques|Tools]]
 * [[Models|Models]]
 * [[Anti-Patterns|Anti-Patterns]]
-* Test git wiki integration
 
 # Innovation Model
 
