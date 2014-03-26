@@ -9,11 +9,11 @@
 
 === CONCEPT GENERATION PHASE (Invention)
 
-* customer-job matrix
+* customer-job matrix footnote:[What Customers Want, Anthony Ulwick, 2005]
 ** existing customer / current job (incremental/breakthrough innovation)
 ** existing customer / new job (incremental/breakthrough innovation)
-** new customer / current job (new market innovation)
-** new customer / new job (fundamentally different, disruptive innovation)
+** new customer / current job (low-end disruption, new market innovation)
+** new customer / new job (quite rare; not actually a new job but a radical departure from how things worked previously, e.g. phonograph, telephone)
 * Empathy research
 ** interviewing
 ** observation
@@ -37,3 +37,4 @@
 === SCALING PHASE (expanding the capture of value)
 
 * optimize organization (enemy of new concepts)
+
