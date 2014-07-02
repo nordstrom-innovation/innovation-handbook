@@ -19,17 +19,27 @@ This is the origin of this book...
 * Innovator’s Dilemma
 * http://cognitive-edge.com/library/more/video/introduction-to-the-cynefin-framework/[Cynefin]
 
+== Mindsets ==
+
+* Yes, and...
+* Flare then focus
+* Small bets, small batches
+* Beginners mind / alien eyes
+* Get out of the building
+* YAGNI/GEFN
+* The rules only apply to me
+* Build to learn
 
 == Tools and Techniques ==
 
 * Kanban
 * Big Visible Charts
 * experimentation and build to learn, as efficiently as possible
-* Pitch
 * Brainstorming
 * Kaizen
 * Build-Measure-Learn
 * link:uploads/The-Core-Protocols-3.03.pdf[Core Protocols]
+* Pair
 
 === Kanban ===
 
