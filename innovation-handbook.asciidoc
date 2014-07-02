@@ -266,6 +266,27 @@ Output:: 3 minute investment pitch
 ** Pitch Deck
 ** Product page
 
+== Planning ==
+
+=== Reducing Risk ===
+
+The innovation process is iterative and flexible. However, setting aside four month for an innovation engagement is a good rule of thumb. This would allow for an Inspiration sprint, an Ideation sprint, a spike or two, an MVP, a pivot or two back into Ideation, a few Iterations and a Pitch.
+
+If you are operating in a space you are already familiar with (e.g. you are your customer), your MVP is simple, and you land on a successful business model the first time, you may need significantly less time. Conversely, in unfamiliar domains with excessive risk and complex solutions, this process may take significantly more time.
+
+We have created this modular approach to innovation to allow for the flexible planning of innovation engagements. The idea is to identify the next greatest risk and to select the appropriate module to reduce that risk.
+
+If you are in a time-bounded context such as a startup accelerator or a business plan competition, you will fill up your extra time with as many Iterate sprints as possible. If you have no time limit, but you are not yet profitable, you will fit in as many Iterate sprints as your burn-down chart/runway allows.
+
+=== Done ===
+
+A definition of innovation we particularly like is: "Aggregate change in behavior." In other words, innovation is not just invention, creativity, validated learning, a business model, or a great pitch; instead, we look for the impact of a concept on the world. This impact may be giant value for a few people, or a tiny value for a large population; it is the total impact that defines the degree of innovation.
+
+So, one might ask, "When is an innovation engagement done?". This has three answers:
+
+* You are done if you validated your concept is not desireable, viable, feasible, repeatable, scalable or profitable.
+* You are done when your concept is acquired.
+* You are done when your concept has become a business.
 
 = Innovation Anti-Patterns =
 
