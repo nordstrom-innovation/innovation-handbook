@@ -1,0 +1,214 @@
+Innovation Handbook
+===================
+Paul Payne, Nordstrom Innovation Lab; Emmanuel Gomez, Innovation Lab; Marius Grigorou, Innovation Lab
+v1.0, 2014-06
+:doctype: book
+:toc:
+
+[preface]
+= Innovation? =
+This is the origin of this book...
+
+= Tools of Innovation =
+
+== Models ==
+* Crossing the chasm
+* Desireable/Viable/Feasible
+* Moores Law
+* MVP
+* Business Model Canvas
+* Innovator’s Dilemma
+* http://cognitive-edge.com/library/more/video/introduction-to-the-cynefin-framework/[Cynefin]
+
+
+== Tools and Techniques ==
+* Kanban
+* Big Visible Charts
+* experimentation and build to learn, as efficiently as possible
+* Pitch
+* Brainstorming
+* Kaizen
+* Build-Measure-Learn
+* link:uploads/The-Core-Protocols-3.03.pdf[Core Protocols]
+
+
+= An Approach to Innovation =
+
+[partintro]
+.An approach developed through many engagements
+--
+The following...
+--
+
+== Overview ==
+
+The Accelerator is a 16 (maximum) week program. The first week is a crash course in Accelerator mindsets and tools. The last week is focused on preparing to communicate and present the project and learnings. In between are up to 14 weeks tailored to the project. We recommend breaking up the time efficiently to maximize product validation.
+
+To this end, we have packaged up typical types of learning, building and validating tasks into 1 or more week "sprints". These sprints can be added and re-configured as necessary. Coaches can recommend a sprint based on the needs of a team. Coaches can also unbundle a few activities from the sprint as needed.
+
+The Minimum Viable Product (MVP) is a major milestone that dramatically changes what a team does. Before the MVP, the team does a series of "spikes" or validates parts of the business model in isolation. Upon working on the MVP, engineering practices become important. Once an MVP is launched the team is running a business and must support operations in addition to validating and optimizing the business model.
+
+=== Modules ===
+* Inspiration
+* Ideation
+* Spikes
+* MVP
+* Iterate
+* Pitch 
+
+=== Artifacts ===
+* Business Model Canvas
+* Process/Pivot Log
+* Burn rate & budget
+* Customer-Job Matrix
+
+=== Coaching ===
+* Desirable
+* Viable
+  * Competitive Analysis
+  * Addressable Market Size
+* Feasible
+
+== Module: Inspiration ==
+
+=== Input ===
+Design challenge, or business opportunity statement, sometimes in the form of How Might We...
+ 
+=== Output ===
+Point of View about the customer
+ 
+=== General Approach ===
+This sprint requires some preparation ahead of time. Lining up customers and activities requires lead time. To make the best use of a week, the accelerator needs to take the team from one activity to the next, similar to what a tour bus does for tourists.
+ 
+=== Activities ===
+The following are possible activities to be done according to need:
+
+* Review existing customer insights such as trend reports, articles, etc.
+* Observation of people in their context. May include analogous situations and extreme users.
+* One to two-hour, in-depth interviews in a natural setting. (Expect to cost about $350/person including recruiting and compensation. Up to 16 people to build deep empathy.)
+* Synthesis
+* Affinity Map
+* KJ analysis (question)
+* Space saturation
+* Value opportunity analysis
+* Journey map
+* JTBD Timeline, Forces, Min/Max
+* customer-job matrix footnote:[What Customers Want, Anthony Ulwick, 2005]
+** existing customer / current job (incremental/breakthrough innovation)
+** existing customer / new job (incremental/breakthrough innovation)
+** new customer / current job (low-end disruption, new market innovation)
+** new customer / new job (quite rare; not actually a new job but a radical departure from how things worked previously, e.g. phonograph, telephone)
+
+=== Example High Level Schedule ===
+* Day 1: Research
+* Day 2: Observation
+* Day 3: Interviews
+* Day 4: Share
+* Day 5: Synthesis - Aha! 
+
+== Module: Ideation ==
+
+=== Inputs ===
+* Point of View (customer problem) statement
+* Your past experiences and understanding of customers
+ 
+=== Outputs ===
+* Concept is sufficiently defined (understood) from an end-user point of view to build a Minimum Viable Product
+* Business Model Canvas as a record of what is about to be built (to be continuously updated going forward)
+* Pitch deck outline highlighting important points to present and current best guess of results and confidence (to be continuously updated going forward)
+ 
+==== Levels of Resolution ====
+
+This sprint is iterative, but the activities performed change with the level of resolution required. The following are the different levels of resolution a team would go through:
+
+* POV -> Idea groups
+** Start with only a POV statement
+** Ideate many ideas
+** Cluster ideas into a manageable number of groups
+* Idea groups -> Single idea and value proposition
+** Start with a single idea group
+** Ideate ideas within the group, if necessary
+** Select an idea to define
+* Specific idea -> Defined concept
+** Start with a specific idea
+** Ideate several implementations, usually from an end user perspective
+** Select one of the variants to go build
+* Feature design
+** Light weight design used when implementing specific features for an MVP
+ 
+=== Activities ===
+
+The following is the high level process that is applied regardless of the level of resolution.
+
+[horizontal]
+*Diverge*:: if more options are necessary
+*Converge*:: using the following approach
+*Prototype*:: to gain experience
+*Select*:: using results from prototyping
+
+Continue converging, or diverge if more options are needed until landing on a single option
+ 
+The following are examples of activities that could be done. The team must select the appropriate activity based on the level of resolution interesting to the team.
+
+Diverge::
+  * Brainstorming
+  * Standup, all-at-once
+  * 1-2-4-All 
+  * Systematic Inventive Thinking (question) 
+Converge (General)::
+  * Affinity Map
+  * Jobs To Be Done Min-Max Codification 
+Prototype::
+  * Bodystorm
+  * Mock-ups
+  * Storyboard
+  * Screenflow
+  * Business Model Canvas & Pitch Deck
+  * Lead generation website
+Select::
+  * Dot voting
+  * Performance metrics 
+
+[TIP]
+=======
+Look for "Yes, exactly!" responses. Pivot away if getting lukewarm responses, but do verify they understand your idea first.
+=======
+
+== Module: Spikes ==
+
+== Module: MVP ==
+
+* Business Model Canvas
+* Experiment Design
+* Storymap
+* Bodystorm
+* Prototype
+* Screenflow
+* Architecture
+* Mockup
+* Conduct Experiment: Invite - Experience
+* Evaluate
+
+== Module Iterate ==
+
+* Business Model Canvas
+* Experiment Design
+* Build
+* Measure
+** A|B Test
+** Conduct Experiment: Invite - Experience
+* Evaluate/Learn
+
+== Pitch ==
+
+* Create a story
+** For (target customer) who (statement of the need or opportunity) the (product name) is a (product category) that (key benefit, compelling reason to buy). Unlike (primary competitive alternative) our product (statement of primary differentiation).
+** Pitch Deck
+** Product page
+
+= Innovation Anti-Patterns =
+
+* Design-only, Hand-off recommendations
+* Approval by Value-chain-dependent executives
+* optimize organization (enemy of new concepts)
+* First we need to X, then we'll be ready to innovate
