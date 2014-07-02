@@ -1,15 +1,12 @@
 == Contributing
 
-The Github wiki for this project is a clone of this repo. The wiki is used as an online viewer. Be aware that commits to the wiki will be overwritten whenever this repo is pushed.
-
-To contribute to the handbook, clone this repo and use https://github.com/gollum/gollum[gollum] for editing locally. Then you can issue normal pull requests. Your changes will be merged to both this repo and the wiki.
-
-Gollum requires some plugins for correctly rendering asciidoc files. In OSX:
-
 ----
 brew install asciidoc
 brew install asciidoctor
 ----
 
-== Documentation Standards
-Coming soon.
+== Generating stuff
+
+asciidoctor -b docbook -d book innovation-handbook.asciidoc
+a2x -f pdf innovation-handbook.xml
+
