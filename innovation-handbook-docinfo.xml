@@ -1,0 +1,79 @@
+<legalnotice>
+  <para>Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".</para>
+</legalnotice>
+
+<mediaobject role="cover"> <!-- source in the cover -->
+  <imageobject role="front-large" remap="lrg">
+    <imagedata format="PNG" fileref="images/Lab_Logo.png"/>
+  </imageobject>
+</mediaobject>
+
+<mediaobject>
+  <objectinfo>
+    <corpname>Nordstrom</corpname>
+  </objectinfo>
+  <textobject>
+    <phrase>Nordstrom Innovation Lab logo</phrase>
+  </textobject>
+  <imageobject>
+    <imagedata align="center" width="4in" format="PNG" fileref="images/Lab_Logo.png" />
+  </imageobject>
+</mediaobject>
+
+<copyright>
+  <year>2014</year>
+  <holder>Nordstrom Innovation Lab</holder>
+</copyright>
+
+<revhistory>
+  <revision>
+    <revnumber>0.2</revnumber>
+    <date>July 2014</date>
+    <revremark>Integrated Accelerator process.</revremark>
+  </revision>
+  <revision>
+    <revnumber>0.1</revnumber>
+    <date>February 2014</date>
+    <revremark>General outline.</revremark>
+  </revision>
+</revhistory>
+
+<abstract>
+  <simpara>
+    This book is a work in progress.
+  </simpara>
+  <simpara>
+    We welcome feedback – if you spot any errors or would like to
+    suggest improvements, please <ulink url="https://github.com/nordstrom-innovation/innovation-handbook/issues">open an issue</ulink> on the GitHub repo.
+  </simpara>
+</abstract>
+
+<authorgroup>
+  <author>
+    <firstname>Paul</firstname>
+    <surname>Payne</surname>
+    <affiliation>
+      <address>
+        <email>paul@payne.io</email>
+      </address>
+    </affiliation>
+  </author>
+  <author>
+    <firstname>Emmanuel</firstname>
+    <surname>Gomez</surname>
+    <affiliation>
+      <address>
+        <email>emmanuel@gomez.io</email>
+      </address>
+    </affiliation>
+  </author>
+    <author>
+    <firstname>Marius</firstname>
+    <surname>Grigorou</surname>
+    <affiliation>
+      <address>
+        <email>marius.grigorou@nordstrom.com</email>
+      </address>
+    </affiliation>
+  </author>
+</authorgroup>

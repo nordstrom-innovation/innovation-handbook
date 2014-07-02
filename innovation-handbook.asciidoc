@@ -1,7 +1,5 @@
 Innovation Handbook
 ===================
-Paul Payne, Nordstrom Innovation Lab; Emmanuel Gomez, Innovation Lab; Marius Grigorou, Innovation Lab
-v1.0, 2014-06
 :doctype: book
 :toc:
 

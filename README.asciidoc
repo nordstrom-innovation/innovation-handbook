@@ -5,8 +5,11 @@ brew install asciidoc
 brew install asciidoctor
 ----
 
+Tip: Installing the asciidoctor.js Chrome plugin is helpful
+
+
 == Generating stuff
 
-asciidoctor -b docbook -d book innovation-handbook.asciidoc
+asciidoctor -a docinfo -b docbook -d book innovation-handbook.asciidoc
 a2x -f pdf innovation-handbook.xml
 
