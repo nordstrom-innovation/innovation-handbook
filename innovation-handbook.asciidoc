@@ -69,11 +69,9 @@ The Minimum Viable Product (MVP) is a major milestone that dramatically changes 
 
 == Module: Inspiration ==
 
-=== Input ===
-Design challenge, or business opportunity statement, sometimes in the form of How Might We...
- 
-=== Output ===
-Point of View about the customer
+Duration:: 1-2 weeks
+Input:: Design challenge, or business opportunity statement, sometimes in the form of How Might We...
+Output:: Point of View about the customer
  
 === General Approach ===
 This sprint requires some preparation ahead of time. Lining up customers and activities requires lead time. To make the best use of a week, the accelerator needs to take the team from one activity to the next, similar to what a tour bus does for tourists.
@@ -106,16 +104,16 @@ The following are possible activities to be done according to need:
 
 == Module: Ideation ==
 
-=== Inputs ===
-* Point of View (customer problem) statement
-* Your past experiences and understanding of customers
+Duration:: 1 week
+Inputs::
+  * Point of View (customer problem) statement
+  * Your past experiences and understanding of customers
+Outputs::
+  * Concept is sufficiently defined (understood) from an end-user point of view to build a Minimum Viable Product
+  * Business Model Canvas as a record of what is about to be built (to be continuously updated going forward)
+  * Pitch deck outline highlighting important points to present and current best guess of results and confidence (to be continuously updated going forward)
  
-=== Outputs ===
-* Concept is sufficiently defined (understood) from an end-user point of view to build a Minimum Viable Product
-* Business Model Canvas as a record of what is about to be built (to be continuously updated going forward)
-* Pitch deck outline highlighting important points to present and current best guess of results and confidence (to be continuously updated going forward)
- 
-==== Levels of Resolution ====
+=== Levels of Resolution ===
 
 This sprint is iterative, but the activities performed change with the level of resolution required. The following are the different levels of resolution a team would go through:
 
@@ -174,22 +172,66 @@ Look for "Yes, exactly!" responses. Pivot away if getting lukewarm responses, bu
 
 == Module: Spikes ==
 
+(How do we determine what to measure?)
+
+Duration:: 1 week
+Inputs:: Risk
+Outputs:: Less Risk
+
+Inputs::
+  * Product
+Outputs::
+  * Product or falsified hypothesis
+
+=== Activities ===
+Learn::
+  * Evaluate
+  * Prioritize Risks/Gaps/Deficiencies
+Build::
+  * Just-in-time UX/UV Usability
+  * Experiment Design
+  * Just-in-time Architecture
+  * Just-in-time Development
+Measure::
+  * Conduct Experiment/Experience
+
+
 == Module: MVP ==
 
-* Business Model Canvas
+MVP is the smallest thing that can be tested in context. It attempts to answer the question "Is this a big thing?"
+
+Duration:: 1-6 weeks
+Inputs:: Concept
+Output:: Minimum Viable Product
+
+=== Activities ===
 * Experiment Design
+** Establish Key Performance Indicators (e.g. signups, recent visitors, revenue, costs)
+** Intrument Business Model Canvas
+** Establish operational baseline
+* Product Design
+** Continuous Delivery
+** Test-Driven Development
+* Conduct Experiment: Invite - Experience
+* Evaluate
+* (Growth Hacking?)
+
+=== Artifacts ===
 * Storymap
 * Bodystorm
 * Prototype
 * Screenflow
 * Architecture
 * Mockup
-* Conduct Experiment: Invite - Experience
-* Evaluate
+
 
 == Module Iterate ==
 
-* Business Model Canvas
+Duration:: 1 week
+Input:: Product
+Output:: Better product or falsified hypothesis
+
+=== Activities ===
 * Experiment Design
 * Build
 * Measure
@@ -197,12 +239,18 @@ Look for "Yes, exactly!" responses. Pivot away if getting lukewarm responses, bu
 ** Conduct Experiment: Invite - Experience
 * Evaluate/Learn
 
+
 == Pitch ==
+
+Duration:: 5-day pitch preparation
+Input:: Business Model
+Output:: 3 minute investment pitch
 
 * Create a story
 ** For (target customer) who (statement of the need or opportunity) the (product name) is a (product category) that (key benefit, compelling reason to buy). Unlike (primary competitive alternative) our product (statement of primary differentiation).
 ** Pitch Deck
 ** Product page
+
 
 = Innovation Anti-Patterns =
 
