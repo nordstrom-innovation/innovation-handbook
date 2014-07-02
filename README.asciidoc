@@ -2,7 +2,7 @@
 
 ----
 brew install asciidoc
-brew install asciidoctor
+[sudo] gem install asciidoctor
 ----
 
 Tip: Installing the asciidoctor.js Chrome plugin is helpful
