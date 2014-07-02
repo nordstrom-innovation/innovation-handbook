@@ -2,6 +2,7 @@ Innovation Handbook
 ===================
 :doctype: book
 :toc:
+:imagesdir: images
 
 [preface]
 = Innovation? =
@@ -20,6 +21,7 @@ This is the origin of this book...
 
 
 == Tools and Techniques ==
+
 * Kanban
 * Big Visible Charts
 * experimentation and build to learn, as efficiently as possible
@@ -29,6 +31,9 @@ This is the origin of this book...
 * Build-Measure-Learn
 * link:uploads/The-Core-Protocols-3.03.pdf[Core Protocols]
 
+=== Kanban ===
+
+image::kanban.jpg[Kanban,title="A Kanban board",width=500]
 
 = An Approach to Innovation =
 
