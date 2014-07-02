@@ -10,6 +10,7 @@ Tip: Installing the asciidoctor.js Chrome plugin is helpful
 
 == Generating stuff
 
+----
 asciidoctor -a docinfo -b docbook -d book innovation-handbook.asciidoc
 a2x -f pdf innovation-handbook.xml
-
+----
