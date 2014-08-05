@@ -1,7 +1,0 @@
-* Crossing the chasm
-* Desireable/Viable/Feasible
-* Moores Law
-* MVP
-* Business Model Canvas
-* Innovator’s Dilemma
-* http://cognitive-edge.com/library/more/video/introduction-to-the-cynefin-framework/[Cynefin]
